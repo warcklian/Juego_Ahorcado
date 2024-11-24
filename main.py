@@ -1,5 +1,5 @@
 from ahorcado_diagramas import AhorcadoDiagramas
-from lista_palabras import obtener_palabra
+from palabras import obtener_palabra
 
 class Ahorcado:
     def __init__(self):
